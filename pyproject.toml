@@ -2,7 +2,6 @@
 name = "django-tutorial"
 version = "0.1.0"
 description = "tutorial"
-authors = ["yyysolhhh <solbaram37@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
